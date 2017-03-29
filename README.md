@@ -3,9 +3,9 @@ To start this project you have to install npm globally then go to project direct
 ```
 npm install
 ```
-it will install all the package then to start the project press 
+it will install all the package then to start the project use below command
 ```
 npm start 
 ```
-command to see working example
+To see working example
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
